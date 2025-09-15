@@ -39,6 +39,15 @@ Before running any code, make sure you have the following installed:
 
 ---
 
+## Description
+
+- **C++_Project**: Contains all C++ projects implemented during the diploma.
+- **C++_Labs**: Includes various C++ lab exercises covering topics like arrays, strings, loops, OOP, and pointers.
+- **ROS_Labs**: Labs related to Robot Operating System (ROS) fundamentals.
+- **ROS_Project**: The main ROS project integrating concepts from labs.
+- **README**: Documentation and supporting materials.
+---
+
 ## 🚀 How to Use
 
 Clone this repository:
@@ -52,7 +61,7 @@ Run each lab/project according to its instructions in the respective folder.
 
 ---
 
-## 📘 Labs & Projects
+<!-- ## 📘 Labs & Projects
 
 | Lab/Project       | Description                  | Folder Name  |
 |------------------|-------------------------------|--------------|
@@ -63,7 +72,7 @@ Run each lab/project according to its instructions in the respective folder.
 
 
 
----
+--- -->
 
 ## 🔮 Future Work
 
