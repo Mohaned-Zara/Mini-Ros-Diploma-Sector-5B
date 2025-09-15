@@ -1,1 +1,85 @@
-# Mini-Ros-Diploma-Sector-5B
+
+# Mini ROS Diploma – Labs & Projects
+
+This repository contains all labs, assignments, and projects completed during the **Mini ROS Diploma**.  
+The goal is to document the learning journey and showcase hands-on implementations for each topic.
+
+---
+
+## 📂 Repository Structure
+
+The repository is organized as follows:
+
+```
+Mini-Ros-Diploma-Sector-5B/
+│
+├── C++_Project/
+│    ├── C++_Project/
+│    ├── C++_Project/
+├── C++_Labs/
+├    ├── Array/
+├    ├── c-string & c++string/
+├    ├── for loops/
+├    ├── OOP/
+├    ├── pointer/
+├── ROS_Labs/
+├── ROS_Project/
+├── README/
+---
+
+## 🛠 Requirements
+
+Before running any code, make sure you have the following installed:
+
+- **Ubuntu 24** (Recommended)
+- **ROS Noetic** / **ROS2 Humble** (depending on your work)
+- **Python 3.8+**
+- **C++ (GCC/G++)**
+- Git, CMake, and other dependencies as needed
+
+---
+
+## 🚀 How to Use
+
+Clone this repository:
+
+```bash
+git clone https://github.com/YourUsername/Mini-Ros-Diploma-Sector-5B.git
+cd Mini-Ros-Diploma-Sector-5B
+```
+
+Run each lab/project according to its instructions in the respective folder.
+
+---
+
+## 📘 Labs & Projects
+
+| Lab/Project       | Description                  | Folder Name  |
+|------------------|-------------------------------|--------------|
+| Lab 1            | Basic ROS Setup               | `Lab1`        |
+| Lab 2            | Publisher & Subscriber Nodes  | `Lab2`        |
+| Project 1        | Robot Simulation Project       | `Project1`    |
+| Project 2        | Sensor Integration Project     | `Project2`    |
+
+
+
+---
+
+## 🔮 Future Work
+
+- Add more advanced ROS2 projects
+- Implement SLAM and Navigation modules
+- Improve documentation with diagrams and visuals
+
+---
+
+## 📧 Contact
+
+For questions or collaborations:
+
+- **Name:** Mohaned Mohamed Zara  
+- **Email:** mohanedzare@gmail.com  
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/mohaned-mohamed-zara)  
+- **GitHub:** [GitHub Profile](https://github.com/Mohaned-Zara)
+
+---
