@@ -10,7 +10,7 @@ The goal is to document the learning journey and showcase hands-on implementatio
 
 The repository is organized as follows:
 
-```
+
 Mini-Ros-Diploma-Sector-5B/
 │
 ├── C++_Project/
@@ -56,8 +56,6 @@ Clone this repository:
 git clone https://github.com/YourUsername/Mini-Ros-Diploma-Sector-5B.git
 cd Mini-Ros-Diploma-Sector-5B
 ```
-
-Run each lab/project according to its instructions in the respective folder.
 
 ---
 
