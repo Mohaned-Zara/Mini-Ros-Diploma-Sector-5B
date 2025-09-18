@@ -66,6 +66,5 @@ For questions or collaborations:
 - **Name:** Mohaned Mohamed Zara  
 - **Email:** mohanedzare@gmail.com  
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/mohaned-mohamed-zara)  
-- **GitHub:** [GitHub Profile](https://github.com/Mohaned-Zara)
 
 ---
