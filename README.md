@@ -6,27 +6,6 @@ The goal is to document the learning journey and showcase hands-on implementatio
 
 ---
 
-## 📂 Repository Structure
-
-The repository is organized as follows:
-
-
-Mini-Ros-Diploma-Sector-5B/
-│
-├── C++_Project/
-│    ├── C++_Project/
-│    ├── C++_Project/
-├── C++_Labs/
-├    ├── Array/
-├    ├── c-string & c++string/
-├    ├── for loops/
-├    ├── OOP/
-├    ├── pointer/
-├── ROS_Labs/
-├── ROS_Project/
-├── README/
----
-
 ## 🛠 Requirements
 
 Before running any code, make sure you have the following installed:
