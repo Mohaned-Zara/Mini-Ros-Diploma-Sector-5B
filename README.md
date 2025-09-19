@@ -63,7 +63,7 @@ cd Mini-Ros-Diploma-Sector-5B
 
 For questions or collaborations:
 
-- **Name:** Mohaned Mohamed Zara  
+- **Name:** Mohaned Zara  
 - **Email:** mohanedzare@gmail.com  
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/mohaned-mohamed-zara)  
 
